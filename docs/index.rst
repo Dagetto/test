@@ -9,8 +9,8 @@ Documentación de la app **Agenda de Usuarios**. Entrega correspondiente al Nive
 Realizado en **Python 3.9** con interfaz **Tkinter**
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 4
+   :caption: Contenido:
 
    modules
 

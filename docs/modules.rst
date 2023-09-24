@@ -1,6 +1,7 @@
 .. toctree::
    :maxdepth: 4
 
-    Controlador
-    Vista
-    Modelo
+   Controlador
+   Modelo
+   Vista
+   hw

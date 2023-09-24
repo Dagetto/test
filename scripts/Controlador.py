@@ -14,3 +14,6 @@ class ControladorPoo:
         main = Tk()
         objeto1_controlador = Vista.VistaPoo(main)
         main.mainloop()
+
+
+"""PRUEBA CON SPHINX Y DOCUMENTACION DE CODIGO PYTHON"""

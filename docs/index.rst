@@ -12,7 +12,9 @@ Realizado en **Python 3.9** con interfaz **Tkinter**
    :maxdepth: 4
    :caption: Contenido:
 
-   modules
+   Controlador
+   Modelo
+   Vista
 
 
 Indices and tablas

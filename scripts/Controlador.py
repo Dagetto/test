@@ -17,3 +17,9 @@ class ControladorPoo:
 
 
 """PRUEBA CON SPHINX Y DOCUMENTACION DE CODIGO PYTHON"""
+"""
+do the usual 'hello world'
+
+:return: Hello World
+:rtype: String
+"""
